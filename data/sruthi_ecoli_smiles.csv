@@ -1,6 +1,7 @@
 Substrate,SMILES
 oligopeptide, N[C@@H](CCC(=O)N[C@@H](CS)C(=O)NCC(=O)O)C(=O)O
 metabolite, N[C@@H](CCC(=O)O)C(=O)O
+multidrug, CC(=O)Oc1ccccc1C(=O)O
 polyamine, NCCCCN
 Short-chain fatty acid, CCCC(=O)[O-]
 purines, c1ncc2[nH]cnc2n1
