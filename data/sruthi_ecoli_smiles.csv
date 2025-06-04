@@ -1,6 +1,8 @@
 Substrate,SMILES
 oligopeptide, N[C@@H](CCC(=O)N[C@@H](CS)C(=O)NCC(=O)O)C(=O)O
+drug, [2H]c1c([2H])c(NC(C)=O)c([2H])c([2H])c1O
 metabolite, N[C@@H](CCC(=O)O)C(=O)O
+Tricarboxylate (TctA) / Tricarboxylic acid, Nc1cc(C(=O)O)c(C(=O)O)c(C(=O)O)c1
 multidrug, CC(=O)Oc1ccccc1C(=O)O
 polyamine, NCCCCN
 Short-chain fatty acid, CCCC(=O)[O-]
